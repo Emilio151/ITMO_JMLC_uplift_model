@@ -8,4 +8,6 @@
 4) Feature engineering
 5) Выбор метамодели
 6) Выбор ML модели
-7) Анализ работы модели 
+7) Анализ работы модели
+
+Полный код с выводами представлен в [колабе](https://colab.research.google.com/drive/1W_SgyGt_wxhhfZ7waT40rCxqve5rw1zP#scrollTo=qr2K_BRFqXyj)
