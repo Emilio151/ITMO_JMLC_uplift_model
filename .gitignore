@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data and reports
+*.csv
+*.xlsx
+*.xls
+*.h5
+*.db
+*.sqlite
+*.sqlite3
+*.pkl
+*.joblib
+*.html
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db 

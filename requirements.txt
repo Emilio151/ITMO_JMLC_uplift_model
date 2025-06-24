@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+ydata_profiling
+scikit-learn
+scikit-uplift
+catboost
+lightgbm
+xgboost
+imblearn
+causalml
+optuna 
