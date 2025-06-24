@@ -1,5 +1,7 @@
 # ITMO_JMLC_uplift_model
 
+Полный код с выводами представлен в [колабе](https://colab.research.google.com/drive/1W_SgyGt_wxhhfZ7waT40rCxqve5rw1zP#scrollTo=qr2K_BRFqXyj)
+
 Проект по Junior ML Contest для ITMO AI Talent Hub
 
 В рамках данного проекта показ процесс создания аплифт модели по продукту "Инвесткопилка". В рамках проекта было реализовано следующее:
@@ -15,5 +17,3 @@
 - `notebooks/` — ноутбуки и скрипты для EDA/экспериментов
 - `src/` — основной код проекта (data, features, models, evaluation, utils)
 - `uplift_ab_test.csv` — исходные данные
-
-Полный код с выводами представлен в [колабе](https://colab.research.google.com/drive/1W_SgyGt_wxhhfZ7waT40rCxqve5rw1zP#scrollTo=qr2K_BRFqXyj)
